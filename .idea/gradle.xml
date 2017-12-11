@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctask" />
+            <option value="$PROJECT_DIR$/asynctask2" />
+            <option value="$PROJECT_DIR$/coordinatelayout" />
+            <option value="$PROJECT_DIR$/customeview" />
+            <option value="$PROJECT_DIR$/customeview2" />
+            <option value="$PROJECT_DIR$/destoryactivity" />
+            <option value="$PROJECT_DIR$/eventbus" />
+            <option value="$PROJECT_DIR$/fm" />
+            <option value="$PROJECT_DIR$/fragmentmanager" />
+            <option value="$PROJECT_DIR$/handlerpack" />
+            <option value="$PROJECT_DIR$/intentpack" />
+            <option value="$PROJECT_DIR$/listpack2" />
+            <option value="$PROJECT_DIR$/listview2" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

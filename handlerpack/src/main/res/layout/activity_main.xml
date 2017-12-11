@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.administrator.handlerpack.MainActivity">
+
+    <Button
+        android:id="@+id/btn_01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送post信息" />
+
+    <Button
+        android:id="@+id/btn_02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="发送postAtTime信息" />
+
+    <Button
+        android:id="@+id/btn_03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="跳转到2ndActivity"/>
+
+    <TextView
+        android:id="@+id/tv_msg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="sjahjdsahjdha"/>
+</LinearLayout>

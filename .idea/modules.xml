@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask/asynctask.iml" filepath="$PROJECT_DIR$/asynctask/asynctask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctask2/asynctask2.iml" filepath="$PROJECT_DIR$/asynctask2/asynctask2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinatelayout/coordinatelayout.iml" filepath="$PROJECT_DIR$/coordinatelayout/coordinatelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customeview/customeview.iml" filepath="$PROJECT_DIR$/customeview/customeview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customeview2/customeview2.iml" filepath="$PROJECT_DIR$/customeview2/customeview2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/destoryactivity/destoryactivity.iml" filepath="$PROJECT_DIR$/destoryactivity/destoryactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eventbus/eventbus.iml" filepath="$PROJECT_DIR$/eventbus/eventbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm/fm.iml" filepath="$PROJECT_DIR$/fm/fm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentmanager/fragmentmanager.iml" filepath="$PROJECT_DIR$/fragmentmanager/fragmentmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlerpack/handlerpack.iml" filepath="$PROJECT_DIR$/handlerpack/handlerpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intentpack/intentpack.iml" filepath="$PROJECT_DIR$/intentpack/intentpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listpack2/listpack2.iml" filepath="$PROJECT_DIR$/listpack2/listpack2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview2/listview2.iml" filepath="$PROJECT_DIR$/listview2/listview2.iml" />
+    </modules>
+  </component>
+</project>

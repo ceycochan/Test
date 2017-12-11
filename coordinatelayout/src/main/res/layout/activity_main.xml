@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:cg="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="weipiao.nshan.com.coordinatelayout.MainActivity">
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="200dp"
+        android:background="#FFCC00"
+        android:text="hello"
+        app:layout_behavior="weipiao.nshan.com.coordinatelayout.MyBehavior"/>
+
+    <weipiao.nshan.com.coordinatelayout.TempView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="200dp"
+        android:background="#3366CC"
+        android:tag="10" />
+</android.support.design.widget.CoordinatorLayout>

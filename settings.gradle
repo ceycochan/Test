@@ -1,0 +1,1 @@
+include ':app', ':asynctask', ':asynctask2', ':destoryactivity', ':handlerpack', ':intentpack', ':eventbus', ':listpack2', ':listview2', ':fragmentmanager', ':fm', ':customeview', ':customeview2', ':coordinatelayout'
